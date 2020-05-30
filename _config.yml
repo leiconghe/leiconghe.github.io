@@ -1,6 +1,6 @@
 # Site settings 配置站点
-title: "个人笔记"
-description: "漂亮的笔记本"
+title: '个人笔记'
+description: '漂亮的笔记本'
 keywords: 嵌入式,C语言
 timezone:Asia/Shanghai
 
@@ -43,7 +43,7 @@ SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagr
   twitch: ''
 
 # 分页
-paginate: 3
+paginate: 2
 paginatepath: ['page:num']
 
 # since
