@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: '个人笔记'
 description: '漂亮的笔记本'
-keywords: '嵌入式，C语言'
+keywords: '嵌入式,C语言'
 url: 'https://leiconghe.github.io' # your host
 
 # nav 中文字符空格：&emsp;
@@ -26,8 +26,8 @@ portraits: '/assets/头像.png' # your portraits image file path
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: 'mailto:leiconghe@gmail.com'
-  weixin: '' # 你的微信二维码存放的地址
-  qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
+  weixin: '/assets/WeChat.png' # 你的微信二维码存放的地址
+  qq: '/assets/QQ.jpg' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   github: ''
   Codepen: ''
   weibo: ''
