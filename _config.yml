@@ -3,8 +3,6 @@ title: "个人笔记"
 description: "漂亮的笔记本"
 keywords: 嵌入式,C语言
 timezone:Asia/Shanghai
-encoding:"utf-8"
-repository:leiconghe/leiconghe.github.io
 
 url: 'https://leiconghe.github.io' # your host
 
