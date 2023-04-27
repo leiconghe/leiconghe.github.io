@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: '个人笔记'
-description: '漂亮的笔记本'
-keywords: 嵌入式,C语言
+description: '个人学习与总结笔记'
+keywords: 嵌入式,C语言，C++
 
 url: 'https://leiconghe.github.io' # your host
 
@@ -15,7 +15,7 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 
 # 博主
 author: true
-name: '雷从贺'
+name: '贺'
 NickName: '呵呵'
 webtitle: 'Notebooks'
 bio: '不要关注我'
